@@ -1,6 +1,6 @@
-« Hello, welcome to my profile!
-« I work on small projects for fun, but do not expect me to be active in here. »
-✦ ⌕ Brazilian • ✎ Artist • ⎙ Programmer
+- « Hello, welcome to my profile!
+- « I work on small projects for fun, but do not expect me to be active in here. »
+- ✦ ⌕ Brazilian • ✎ Artist • ⎙ Programmer
 
 
 <!---
